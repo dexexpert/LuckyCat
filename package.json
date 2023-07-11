@@ -13,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "@walletconnect/web3-provider": "^1.8.0",
     "@web3-react/core": "^6.1.9",
+    "@web3-react/injected-connector":"^6.1.9",
     "install": "^0.13.0",
     "mui": "^0.0.1",
     "npm": "^9.8.0",
