@@ -1,0 +1,38 @@
+body,html {
+  height: 100%
+}
+
+body {
+  margin: 0;
+  font-family: Montserrat,-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue",sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(30deg,#00eaff,#0080ff 25%,#8000ff 50%,#e619e6 75%,red);
+  background-position: 100% 0;
+  background-repeat: no-repeat
+}
+
+code {
+  font-family: source-code-pro,Menlo,Monaco,Consolas,"Courier New",monospace
+}
+
+#root {
+  height: 100%;
+  overflow: auto
+}
+
+.scrollbox {
+  overflow-y: scroll
+}
+
+.scrollbox::-webkit-scrollbar {
+  background-color: initial;
+  width: 8px
+}
+
+.scrollbox::-webkit-scrollbar-thumb {
+  background-color: rgba(0,0,0,.2);
+  border-radius: 4px
+}
+
+/*# sourceMappingURL=main.ee1b9152.chunk.css.map */
